@@ -39,9 +39,9 @@
       <text x="302" y="201" class="layer">B.Cu</text>
       <path d="M 393 195 H 426" stroke="#64748b" stroke-width="2" />
       <path d="M 420 189 L 428 195 L 420 201" fill="none" stroke="#64748b" stroke-width="2" />
-      <rect x="450" y="179" width="92" height="32" rx="16" fill="#fee2e2" />
-      <text x="496" y="201" text-anchor="middle" class="actual" fill="#dc2626">F.Cu</text>
-      <rect x="580" y="179" width="132" height="32" rx="16" fill="#fee2e2" />
-      <text x="646" y="201" text-anchor="middle" class="status" fill="#dc2626">MISMATCH</text>
+      <rect x="450" y="179" width="92" height="32" rx="16" fill="#dcfce7" />
+      <text x="496" y="201" text-anchor="middle" class="actual" fill="#15803d">B.Cu</text>
+      <rect x="580" y="179" width="132" height="32" rx="16" fill="#dcfce7" />
+      <text x="646" y="201" text-anchor="middle" class="status" fill="#15803d">MATCH</text>
     </g>
 </svg>
